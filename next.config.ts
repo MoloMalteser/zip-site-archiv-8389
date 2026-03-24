@@ -12,7 +12,7 @@ const nextConfig: NextConfig = {
     // even if your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
-  distDir: 'dist',
+  distDir: '.next',
   images: {
     unoptimized: true,
   },
